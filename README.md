@@ -1,14 +1,11 @@
-# Unq-po2-TpFinal
+
 
 ### Mockito y Java 📌
 
 * Se utilizo para los test Junit 5 y el Java utilizado es JavaSE-17
 * Para mockito se utilizaron los siguientes jar: https://github.com/MatiasGiraudo/unqui-po2-giraudo/tree/main/mockito
 
-# Tablero de tareas
-
-https://trello.com/b/jOS5yZQJ/cienciaparticipativa
-
+* 
 ## Patrones de diseño
 
 ### State 📌
